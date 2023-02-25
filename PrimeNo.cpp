@@ -10,7 +10,7 @@
 
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-// Problem statement :  Accept Two  Number from user and check which number is greater 
+// Problem statement :  Accept Number And Print the Prime Number of That Number includeing 0
 //
 // Input : 12
 // Output : Even number from 0 to 12
