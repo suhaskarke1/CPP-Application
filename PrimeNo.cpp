@@ -10,7 +10,7 @@
 
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-// Problem statement :  Accept Number And Print the Prime Number of That Number includeing 0
+// Problem statement :  Accept Number And Print the Prime Number of That Number including 0
 //
 // Input : 12
 // Output : Even number from 0 to 12
